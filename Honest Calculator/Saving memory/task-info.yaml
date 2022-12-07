@@ -73,6 +73,10 @@ files:
     if __name__ == '__main__':
         HonestCalc().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/208/stages/1043/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/15814#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: "Wed, 07 Dec 2022 04:45:24 UTC"
 record: -1
